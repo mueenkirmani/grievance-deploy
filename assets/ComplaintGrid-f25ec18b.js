@@ -1,4 +1,4 @@
-import{j as e}from"./index-5e373049.js";function r({item:s}){return e.jsxs("div",{className:`w-full rounded-lg border bg-white px-8 py-6 shadow-md
+import{j as e}from"./index-72a034f7.js";function r({item:s}){return e.jsxs("div",{className:`w-full rounded-lg border bg-white px-8 py-6 shadow-md
               ${s.status==="open"?"border-red-500":""}
               ${s.status==="in-progress"?"border-yellow-500":""}
               ${s.status==="done"?"border-green-500":""}
